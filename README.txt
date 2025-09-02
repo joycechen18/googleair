@@ -1,5 +1,4 @@
 Google Air View Data-Dublin
-https://images.squarespace-cdn.com/content/v1/65113d641a643d4f28945246/1695628673142-D97SGNERJUM2IXGKYNVG/Google_Air_View_Hamburg.jpg?format=2500w
 
 # Project Title
 AirView_DublinCity_Measurements_Metadata
